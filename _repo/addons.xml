@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.1tv.ru"
        name="1tv.ru"
-       version="2.2.2"
+       version="2.2.3"
        provider-name="am">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
